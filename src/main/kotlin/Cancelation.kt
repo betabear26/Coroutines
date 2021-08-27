@@ -1,6 +1,6 @@
 import kotlinx.coroutines.*
 
-fun main(args: Array<String>){
+fun main(){
     //simpleCancel()
     //nonCooperativeCancellation()
     //cooperativeCancellation()

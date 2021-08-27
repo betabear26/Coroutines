@@ -1,7 +1,7 @@
 import kotlinx.coroutines.*
 import kotlin.system.measureTimeMillis
 
-fun main(args: Array<String>){
+fun main(){
     //sequentialByDefault()
     //concurrentUsingAsync()
     //lazeStartWithAsync()
